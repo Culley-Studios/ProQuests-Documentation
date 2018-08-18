@@ -10,16 +10,12 @@ Provide a direct clickable link to your user profile.
 
 **Spigot account** - {insert here}
 <br>
-- 
-<br>
 
 **Plugin Version**
 Provide the ProQuests version you are running (support is only provided for the latest version).
 > Example: 2.0.7.1
 
 **Plugin version** - {insert here}
-<br>
-- 
 <br>
 
 **Spigot Version**
@@ -28,16 +24,12 @@ Provide the Spigot version you are using (as stated in startup). If you are usin
 
 **Spigot Version** - {insert here}
 <br>
-- 
-<br>
 
 **Log File**
 Provide a clickable url to a plain text website (https://pastebin.com, https://hastebin.com) with your **ENTIRE LOG FILE** this includes from startup to now. Partial log files or specific errors you deem "relevant" will not be accepted.
 > Example: https://hastebin.com/iyugokawux.cpp
 
 **Link to log file** - {insert here}
-<br>
-- 
 <br>
 
 **Addition Information**
@@ -52,16 +44,12 @@ Provide as much additional information explaining the issue. This can include bu
 
 **Additional information** - {insert here}
 <br>
-- 
-<br>
 
 **Additional Media**
 Provide any configuration files, links to images, or videos which better explain the "error" you are encountering. **All provided media must be accessible online, download links will not be accepted**
 > Example: This link provided contains the configuration for the quest causing the error https://hastebin.com/iyugokawux.cpp
 
 **Additional media** - {insert here}
-<br>
-- 
 <br>
 
 **Please keep issues relevant to the "error" in question and try to refrain from opening more than (1) issue per day**
